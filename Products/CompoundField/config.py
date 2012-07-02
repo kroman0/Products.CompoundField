@@ -54,7 +54,7 @@ DEPENDENCIES = []
 PRODUCT_DEPENDENCIES = []
 
 ##code-section config-bottom #fill in your manual code here
-COMPOUND_FIELD_SEPERATOR='|'
+COMPOUND_FIELD_SEPERATOR='_'
 ARRAY_FIELDNAME_SEPARATOR = ':'
 HAS_MARSHALLER=False
 EVIL_EVAL=False
